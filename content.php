@@ -122,7 +122,7 @@
 				if ( $tags_list ) {
 			?>
 					<span class="tag-links">
-						<?php printf( __( 'Tagged %1$s', 'required' ), $tags_list ); ?>
+						<?php printf( __( '标签 %1$s', 'required' ), $tags_list ); ?>
 					</span><!-- /.tag-links -->
 			<?php } // end if ?>
 
